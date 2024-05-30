@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for Reac
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?jayantibhandari=jayantibhandari&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jayantibhandari=jayantibhandari&layout=compact&theme=radical)
 
 ## 📂 Projects
 
@@ -35,10 +35,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for Reac
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=radical)](https://github.com/jayantibhandari/React-Native-ToDo)
 
 ### 🚀 Other Projects
-- [Project 1](https://github.com/jayantibhandari/React-Native-ToDo)
-- [Project 2](https://github.com/jayantibhandari/calculator)
-- [Project 3](https://github.com/jayantibhandari/MERNPortfolio)
-- [Project 3](https://github.com/jayantibhandari/online_veterinary_managemet_system)
+- [React Native ToDo List](https://github.com/jayantibhandari/React-Native-ToDo)
+- [Calculator JS](https://github.com/jayantibhandari/calculator)
+- [Portfolio MERN](https://github.com/jayantibhandari/MERNPortfolio)
+- [Online Veterinary Management System](https://github.com/jayantibhandari/online_veterinary_managemet_system)
 
 ## 📫 Connect with Me
 
