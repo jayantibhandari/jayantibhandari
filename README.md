@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Jayanti Bhandari 👋
 
-<!--
-**jayantibhandari/jayantibhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://your-image-url.com/header.png)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for React and React Native. Here you'll find a collection of my projects, contributions, and learnings. Feel free to explore and connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on Full Stack React Native Projects
+- 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate on Full Stack React Native Projects
+- 💬 Ask me about projects
+- 📫 How to reach me: jayanti0987654321@gmail.com
+- ⚡ Fun fact: I play basketball.
+
+## 🛠️ Skills & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📂 Projects
+
+### 🔥 Featured Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=radical)](https://github.com/yourusername/your-repo)
+
+### 🚀 Other Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+- [Project 3](https://github.com/yourusername/project3)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanti-bhandari/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jayanti_bhandari_)
+[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jayantibhandari.onrender.com)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+---
+
+*This README was generated with ❤️ by [Your Name](https://github.com/yourusername)*
