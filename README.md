@@ -29,19 +29,16 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for Reac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📂 Projects
 
 ### 🔥 Featured Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=radical)](https://github.com/yourusername/your-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=radical)](https://github.com/jayantibhandari/React-Native-ToDo)
 
 ### 🚀 Other Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+- [Project 1](https://github.com/jayantibhandari/React-Native-ToDo)
+- [Project 2](https://github.com/jayantibhandari/calculator)
+- [Project 3](https://github.com/jayantibhandari/MERNPortfolio)
+- [Project 3](https://github.com/jayantibhandari/online_veterinary_managemet_system)
 
 ## 📫 Connect with Me
 
@@ -53,4 +50,4 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for Reac
 
 ---
 
-*This README was generated with ❤️ by [Your Name](https://github.com/yourusername)*
+*This README was generated with ❤️ by [Jayanti Bhandari](https://github.com/jayantibhandari)*
