@@ -1,7 +1,5 @@
 # Hi there, I'm Jayanti Bhandari 👋
 
-![Header](https://pin.it/5RvUDoVnv)
-
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for React and React Native. Here you'll find a collection of my projects, contributions, and learnings. Feel free to explore and connect with me!
 
 ## 🚀 About Me
