@@ -73,7 +73,7 @@
 ## 💬 **Fun Facts About Me**
 <!-- Fun GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgwYms5dnc2Mmw5b3A3MXJlNzJuamx4MHY4YWRvem9jM3RhanJ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Day1AgFfMBsrL6BTpF/giphy.gif" alt="Fun Banner" width="500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="500"/>
 </p>
 
 
