@@ -65,12 +65,20 @@
 
 
 ## 💬 **Fun Facts About Me**
-|    |    |
-|----|----|
-| ![Fun Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif) |
-| 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)
-|🚴 I love cycling in my free time. |
-| 🍕 Dorritos is my go-to comfort food. |  |
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="300"/>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
+        <li>🚴 I love cycling in my free time.</li>
+        <li>🍕 Dorritos is my go-to comfort food.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
