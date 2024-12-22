@@ -20,7 +20,6 @@
     <li>💬 **Ask me about:** <span style="color: #f57c00;">*anything tech-related, especially Laravel & React*</span></li>
     <li>🍕 **Comfort food:** Doritos + guacamole = Heaven!</li>
     <li>📫 **Reach me at:** <a href="mailto:jayantibhandari6@gmail.com">jayantibhandari6@gmail.com</a></li>
-    <li>🚀 **Fun fact:** I love making coding challenges for fun and have a secret hobby of learning <span style="color: #e3b000;">3D modeling</span>!</li>
     <li>📱 **Let’s connect on:** 
         <a href="https://github.com/jayantibhandari" target="_blank">GitHub</a> | 
         <a href="https://www.linkedin.com/in/jayantibhandari" target="_blank">LinkedIn</a>
