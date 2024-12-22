@@ -89,7 +89,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" height='200' width="400" align="right" />
   
 <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
-    <li>🎮 **Gamer:** Ask me about **Valorant** or **League of Legends**.</li>
+    <li>🎮 **Gamer:** Ask me about **Valorant** or **Minecraft**.</li>
     <li>🚴 **Cyclist:** I love cycling in my free time.</li>
     <li>🍕 **Comfort food:** Doritos are my go-to snack.</li>
     <li>🕹️ **Game nights:** Always ready for a virtual game night!</li>
