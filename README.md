@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jayanti Bhandari!
 <br>
-<h1>🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner </h1>
+🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner
 
 <!-- Animated Typing Text -->
 <p>
