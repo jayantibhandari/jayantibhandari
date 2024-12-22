@@ -46,13 +46,15 @@
 
 ## 📊 **GitHub Stats and Contributions**
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayantibhandari&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantibhandari&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jayantibhandari&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="display: inline-block; margin-right: 20px;"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantibhandari&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="display: inline-block;"/>
+</div>
+
 
 <br>
 <br>
