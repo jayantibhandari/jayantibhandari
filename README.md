@@ -39,7 +39,7 @@
 
 ## 🎵 **Spotify Now Playing**
 <p align="center">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31zmf2isk7rolgr7dvdbasnohdwu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <iframe src="https://open.spotify.com/embed/user/31zmf2isk7rolgr7dvdbasnohdwu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
 
 
