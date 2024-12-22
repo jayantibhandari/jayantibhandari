@@ -71,7 +71,9 @@
 
 ## 💬 **Fun Facts About Me**
 <!-- Fun GIF -->
-<iframe src="https://giphy.com/embed/Day1AgFfMBsrL6BTpF" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-anime-rick-and-morty-the-Day1AgFfMBsrL6BTpF">via GIPHY</a></p>
+<p align="center">
+  <img src="https://giphy.com/embed/Day1AgFfMBsrL6BTpF" alt="Fun Banner" width="500"/>
+</p>
 
 
 
