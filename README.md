@@ -88,13 +88,16 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" height='200' width="400" align="right" />
   
-  <ul style="display:inline-block; text-align:right;">
-    <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
-    <li>🚴 I love cycling in my free time.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-  </ul>
+ <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
+    <li>🎮 **Gamer at heart:** Ask me about **Valorant** or **League of Legends** — I’m always up for a challenge!</li>
+    <li>🚴 **Cycling enthusiast:** I love cycling through scenic routes when I need to clear my mind and stay fit.</li>
+    <li>🍕 **Snack lover:** Doritos are my go-to comfort food. I can’t get enough of them!</li>
+    <li>🕹️ **Game nights:** I host virtual game nights with friends to unwind and compete in my favorite games.</li>
+    <li>🧠 **Strategy lover:** When I’m not coding, I’m likely brainstorming new strategies for my next game or ride!</li>
+    <li>🌍 **Adventurer at heart:** I love discovering new places, whether it’s a hidden gem in a game or a new cycling route in the city.</li>
+    <li>🎧 **Music helps me focus:** I listen to music while coding or gaming, from chill beats to intense soundtracks that get me in the zone.</li>
+</ul>
+
 </p>
 
 <br>
