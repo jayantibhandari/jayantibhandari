@@ -30,8 +30,9 @@
 
 <!-- Tech GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YkFwnKceW9L3K/giphy.gif" alt="Tech GIF" width="400"/>
+  <img src="https://media.giphy.com/media/1ldax77KGEi5u/giphy.gif" alt="Tech GIF" width="400"/>
 </p>
+
 
 ---
 
