@@ -77,14 +77,11 @@
 ## 🏆 **Achievements & Badges**
 <br>
 <p align="center">
-  <a href="https://www.freecodecamp.org/jayantibhandari">
-    <img src="https://img.shields.io/badge/-freeCodeCamp-F7B500?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  <a href="https://www.example.com/achievement1">
+    <img src="https://img.shields.io/badge/-Achievement%201-FF5733?style=for-the-badge&logo=achievement&logoColor=white" alt="Achievement 1 Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jayantibhandari">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.hackerrank.com/jayantibhandari">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.example.com/achievement2">
+    <img src="https://img.shields.io/badge/-Achievement%202-33FF57?style=for-the-badge&logo=achievement&logoColor=white" alt="Achievement 2 Badge"/>
   </a>
 </p>
 <br>
