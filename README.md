@@ -1,9 +1,8 @@
 # Welcome to My GitHub
 
-![GitHub Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=My+GitHub+Profile+Banner)
+<img src="https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=My+GitHub+Profile+Banner" alt="GitHub Banner" width="100%" />
 
 This is a place where I showcase my projects, contributions, and achievements. Feel free to explore!
-
 
 
 # 👋 Hey, I'm Jayanti Bhandari!
