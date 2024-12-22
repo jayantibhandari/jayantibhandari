@@ -10,8 +10,6 @@
 
 
 ## 🌟 **About Me**
-<br>
-
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='160' width="300" align="right" />
   
