@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Jayanti Bhandari!
+<br>
 ### 🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner
 
 <!-- Animated Typing Text -->
@@ -8,6 +9,8 @@
 
 
 ## 🌟 **About Me**
+<br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" align="left"/>
   
@@ -28,6 +31,8 @@
 
 
 ## 🛠️ **Tech Stack**
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,github,git,vscode" alt="Tech Stack"/>
 </p>
@@ -37,6 +42,7 @@
 
 
 ## 📊 **GitHub Stats and Contributions**
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayantibhandari&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
 </p>
@@ -50,12 +56,14 @@
 
 
 ## 📈 **Programming Language Stats**
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
 ## 🏆 **Achievements & Badges**
+<br>
 <p align="center">
   <a href="https://www.freecodecamp.org/jayantibhandari">
     <img src="https://img.shields.io/badge/-freeCodeCamp-F7B500?style=for-the-badge&logo=freecodecamp&logoColor=white" />
@@ -73,7 +81,7 @@
 
 
 ## 💬 **Fun Facts About Me**
-
+<br>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="250" align="left" />
   
@@ -94,6 +102,7 @@
 
 
 ## 🏆 **Let's Connect!**
+<br>
 <p align="center">
   <a href="https://github.com/jayantibhandari">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
