@@ -19,8 +19,6 @@
     <li>🌱 I’m learning **Laravel and React**</li>
     <li>💬 Ask me about **Laravel and React**</li>
     <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
     <li>📫 Reach me at: **jayantibhandari6@gmail.com**</li>
   </ul>
 </p>
