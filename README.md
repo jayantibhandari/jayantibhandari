@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmMXhudHlqbmM3M3FhenN5c2ViNjg4Z3lmdzZlMG5oMDZnMDBlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zDuStFVpRJIZ2/giphy.gif"alt="Fun Banner" height="170" width="300" align="right"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FhdmVnbjh3MmplaGw2MHppdTV5eXkzMWdscnlyNHM1Y3JyYmNsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3Og3fmqbii6Tyv9Ta/giphy.gif"alt="Fun Banner" height="170" width="300" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
