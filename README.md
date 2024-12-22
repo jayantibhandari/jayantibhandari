@@ -71,9 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;"/>
 
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br>
 
 
 ## 🏆 **Achievements & Badges**
