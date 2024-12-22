@@ -48,11 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 <!-- Fun GIF for Music -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEdv2Dk6jq5XaBlmY/giphy.gif" alt="Music GIF" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYbA3uYb5A1nkPq/giphy.gif" alt="Music GIF" width="400"/>
 </p>
-
 
 ---
 
