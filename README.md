@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" align="right"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="300" align="right"/>
   
   <ul style="display:inline-block; text-align:right;">
     <li>🔭 I’m currently working on **Laravel and React Projects** </li>
