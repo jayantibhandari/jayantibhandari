@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="150" width="250" align="right"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="180" width="250" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
@@ -77,7 +77,7 @@
 ## 💬 **Fun Facts About Me**
 <br>
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='150' width="250" align="right" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='180' width="250" align="right" />
   
 <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>🎮 Gamer: Ask me about Valorant or Minecraft.</li>
