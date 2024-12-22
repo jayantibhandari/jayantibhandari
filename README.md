@@ -64,15 +64,20 @@
 ---
 
 ## 💬 **Fun Facts About Me**
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="500"/>
-</p>
+<div align="center">
+  <!-- Fun GIF -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="500" style="display: inline-block; margin-right: 20px"/>
+  
+  <!-- Fun Facts Text -->
+  <div style="display: inline-block; text-align: left;">
+    <ul>
+      <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
+      <li>🚴 I love cycling in my free time.</li>
+      <li>🍕 Dorritos is my go-to comfort food.</li>
+    </ul>
+  </div>
+</div>
 
-- 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)  
-- 🚴 I love cycling in my free time.  
-- 🍕 Dorritos is my go-to comfort food.  
-
----
 
 ## 🏆 **Let's Connect!**
 <p align="center">
