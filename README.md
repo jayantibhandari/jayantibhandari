@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="400" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
-    <li>👨‍💻 **Currently working on:** <span style="font-weight: bold;">**Laravel**</span> and <span style="font-weight: bold;">**React Projects**</span> </li>
+    <li>👨‍💻 Currently working on: <span style="font-weight: bold;">**Laravel**</span> and <span style="font-weight: bold;">**React Projects**</span> </li>
     <li>🌱 **Learning:** <span style="color: #61dafb;">React</span> hooks, <span style="color: #ff2d20;">Laravel API development</span></li>
     <li>💬 **Ask me about:** <span style="color: #f57c00;">*anything tech-related, especially Laravel & React*</span></li>
     <li>🍕 **Comfort food:** Doritos + guacamole = Heaven!</li>
@@ -79,11 +79,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='200' width="400" align="right" />
   
 <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
-    <li>🎮 **Gamer:** Ask me about **Valorant** or **Minecraft**.</li>
-    <li>🚴 **Cyclist:** I love cycling in my free time.</li>
-    <li>🍕 **Comfort food:** Doritos are my go-to snack.</li>
-    <li>🕹️ **Game nights:** Always ready for a virtual game night!</li>
-    <li>🎧 **Music lover:** I listen to music while coding or gaming.</li>
+    <li>🎮 Gamer: Ask me about Valorant or Minecraft.</li>
+    <li>🚴 Rider: I love riding in my free time.</li>
+    <li>🍕 Comfort food: Doritos are my go-to snack.</li>
+    <li>🕹️ Game nights: Always ready for a virtual game night!</li>
+    <li>🎧 Music lover: I listen to music to pop.</li>
 </ul>
 
 
