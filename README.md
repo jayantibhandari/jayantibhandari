@@ -73,19 +73,6 @@
 </div>
 <br>
 
-
-## 🏆 **Achievements & Badges**
-<br>
-<p align="center">
- <a href="https://www.example.com/your-achievement-details">
-    <img src="https://i.imgur.com/yourbadgeimage.png" alt="Pull Shark Sticker Badge"/>
-  </a>
-</p>
-<br>
-<br>
-
-
-
 ## 💬 **Fun Facts About Me**
 <br>
 <p align="center">
