@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="300" align="right"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="180" width="300" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="350"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="380"/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" width="400"/>
@@ -77,7 +77,7 @@
 ## 💬 **Fun Facts About Me**
 <br>
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='200' width="400" align="right" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN6Nmp2cHlqZ3l5YXZ1OXRuMjc4a2p0NjV0cWpoMG1sM2ppZGI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PWBLDJ2KtB1X6o9vY/giphy.gif" alt="Fun Banner" height='200' width="380" align="right" />
   
 <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>🎮 Gamer: Ask me about Valorant or Minecraft.</li>
