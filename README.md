@@ -50,10 +50,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jayantibhandari&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="300" style="display: inline-block; margin-right: 50px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayantibhandari&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="400" style="display: inline-block; margin-right: 50px;"/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantibhandari&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="300" style="display: inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantibhandari&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400" style="display: inline-block;"/>
 </div>
 
 
@@ -66,10 +66,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="450"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="400"/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" width="400"/>
 
 </div>
 <br>
