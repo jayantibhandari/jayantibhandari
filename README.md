@@ -65,20 +65,16 @@
 
 
 ## 💬 **Fun Facts About Me**
-<table style="border: none; width: 100%;">
-  <tr>
-    <td valign="top">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="300"/>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
-        <li>🚴 I love cycling in my free time.</li>
-        <li>🍕 Dorritos is my go-to comfort food.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="300" align="left" />
+  
+  <ul style="display:inline-block; text-align:left;">
+    <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
+    <li>🚴 I love cycling in my free time.</li>
+    <li>🍕 Dorritos is my go-to comfort food.</li>
+  </ul>
+</p>
 
 
 
