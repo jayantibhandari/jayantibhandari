@@ -9,7 +9,7 @@
 
 ## 🌟 **About Me**
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" width="250" align="left"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="250" align="left"/>
   
   <ul style="display:inline-block; text-align:left;">
     <li>🔭 I’m currently working on **Laravel and React Projects** </li>
