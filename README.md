@@ -28,12 +28,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,github,git,vscode" alt="Tech Stack"/>
 </p>
 
-<!-- Tech GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26uf9YlPBx8OtNw1y/giphy.gif" alt="Tech GIF" width="400"/>
-</p>
-
-
 
 ---
 
