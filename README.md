@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Jayanti Bhandari!
 ### 🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner
 
----
-
 <!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6347&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+projects;Let's+connect+and+create+something+awesome!" alt="Typing SVG" />
@@ -11,7 +9,7 @@
 
 ## 🌟 **About Me**
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Fun Banner" width="250"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" width="250" align="left"/>
   
   <ul style="display:inline-block; text-align:left;">
     <li>🔭 I’m currently working on **Laravel and React Projects** </li>
