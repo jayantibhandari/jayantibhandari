@@ -12,9 +12,9 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" align="left"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" align="right"/>
   
-  <ul style="display:inline-block; text-align:left;">
+  <ul style="display:inline-block; text-align:right;">
     <li>🔭 I’m currently working on **Laravel and React Projects** </li>
     <li>🌱 I’m learning **Laravel and React**</li>
     <li>💬 Ask me about **Laravel and React**</li>
