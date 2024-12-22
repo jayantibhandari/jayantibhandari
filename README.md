@@ -69,10 +69,11 @@
 ---
 
 ## 💬 **Fun Facts About Me**
-<!-- Fun Facts GIF -->
+<!-- Fun GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ozkxXyIa26zKcFq/giphy.gif" alt="Fun Facts" width="400"/>
+  <img src="https://media.giphy.com/media/11s7Ke7jcXs2N6/giphy.gif" alt="Fun GIF" width="400"/>
 </p>
+
 
 
 - 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)!  
