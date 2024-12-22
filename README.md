@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6347&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+projects;Let's+connect+and+create+something+awesome!" alt="Typing SVG" />
 </p>
 
-<!-- Fun GIF for Music -->
+<!-- Fun GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Music GIF" width="400"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Fun Banner" width="500"/>
 </p>
 
 
