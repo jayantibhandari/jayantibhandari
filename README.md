@@ -1,3 +1,11 @@
+# Welcome to My GitHub
+
+![GitHub Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=My+GitHub+Profile+Banner)
+
+This is a place where I showcase my projects, contributions, and achievements. Feel free to explore!
+
+
+
 # 👋 Hey, I'm Jayanti Bhandari!
 🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner | 🌟 Sunshiny
 <br>
