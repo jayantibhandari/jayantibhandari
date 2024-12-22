@@ -23,6 +23,7 @@
 </p>
 
 <br>
+<br>
 
 ---
 
@@ -32,6 +33,9 @@
 </p>
 
 ---
+<br>
+<br>
+
 
 ## 📊 **GitHub Stats and Contributions**
 <p align="center">
@@ -42,6 +46,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantibhandari&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
+<br>
+<br>
 ---
 
 ## 📈 **Programming Language Stats**
@@ -63,7 +69,8 @@
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-
+<br>
+<br>
 ---
 
 
@@ -83,7 +90,8 @@
   </ul>
 </p>
 
-
+<br>
+<br>
 ---
 
 
@@ -99,7 +107,8 @@
     <img src="https://img.shields.io/badge/Email-%23121011.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<br>
+<br>
 ---
 
 ⭐ **Star this repository** if you like this profile template! 🎉
