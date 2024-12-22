@@ -111,8 +111,6 @@
 <br>
 <br>
 
-⭐ **Star this repository** if you like this profile template! 🎉
-
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdlbWtjd2t5MGNybmd5MjU0NnQxdjhrdjJmMWF4YWhzNDRsMzBwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif" alt="Tech Stack" width="1000" height="200"/>
 </p>
