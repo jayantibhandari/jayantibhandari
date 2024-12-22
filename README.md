@@ -15,12 +15,12 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="400" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
-    <li>👨‍💻 Currently working on: <span style="font-weight: bold;">**Laravel**</span> and <span style="font-weight: bold;">**React Projects**</span> </li>
-    <li>🌱 **Learning:** <span style="color: #61dafb;">React</span> hooks, <span style="color: #ff2d20;">Laravel API development</span></li>
-    <li>💬 **Ask me about:** <span style="color: #f57c00;">*anything tech-related, especially Laravel & React*</span></li>
-    <li>🍕 **Comfort food:** Doritos + guacamole = Heaven!</li>
-    <li>📫 **Reach me at:** <a href="mailto:jayantibhandari6@gmail.com">jayantibhandari6@gmail.com</a></li>
-    <li>📱 **Let’s connect on:** 
+    <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
+    <li>🌱 Learning: <span style="color: #61dafb;">React</span> hooks, <span style="color: #ff2d20;">Laravel API development</span></li>
+    <li>💬 Ask me about: <span style="color: #f57c00;">anything tech-related, especially Laravel & React</span></li>
+    <li>🍕 Comfort food: Doritos + guacamole = Heaven!</li>
+    <li>📫 Reach me at: <a href="mailto:jayantibhandari6@gmail.com">jayantibhandari6@gmail.com</a></li>
+    <li>📱 Let’s connect on: 
         <a href="https://github.com/jayantibhandari" target="_blank">GitHub</a> | 
         <a href="https://www.linkedin.com/in/jayantibhandari" target="_blank">LinkedIn</a>
     </li>
