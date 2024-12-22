@@ -73,6 +73,9 @@
     <li>🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)</li>
     <li>🚴 I love cycling in my free time.</li>
     <li>🍕 Dorritos is my go-to comfort food.</li>
+    <li>🍕 Dorritos is my go-to comfort food.</li>
+    <li>🍕 Dorritos is my go-to comfort food.</li>
+    <li>🍕 Dorritos is my go-to comfort food.</li>
   </ul>
 </p>
 
