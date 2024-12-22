@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="400" align="right"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="300" align="right"/>
   
  <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
     <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
