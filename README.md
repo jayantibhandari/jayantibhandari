@@ -14,14 +14,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"alt="Fun Banner" height="200" width="400" align="right"/>
   
-  <ul style="display:inline-block; text-align:right;">
-    <br>
-    <li>🔭 I’m currently working on **Laravel and React Projects** </li>
-    <li>🌱 I’m learning **Laravel and React**</li>
-    <li>💬 Ask me about **Laravel and React**</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>📫 Reach me at: **jayantibhandari6@gmail.com**</li>
-  </ul>
+ <ul style="display:inline-block; text-align:left; list-style-type: none; font-family: Arial, sans-serif; font-size: 16px;">
+    <li>👨‍💻 **Currently working on:** <span style="font-weight: bold;">**Laravel**</span> and <span style="font-weight: bold;">**React Projects**</span> </li>
+    <li>🌱 **Learning:** <span style="color: #61dafb;">React</span> hooks, <span style="color: #ff2d20;">Laravel API development</span></li>
+    <li>💬 **Ask me about:** <span style="color: #f57c00;">*anything tech-related, especially Laravel & React*</span></li>
+    <li>🍕 **Comfort food:** Doritos + guacamole = Heaven!</li>
+    <li>📫 **Reach me at:** <a href="mailto:jayantibhandari6@gmail.com">jayantibhandari6@gmail.com</a></li>
+    <li>🚀 **Fun fact:** I love making coding challenges for fun and have a secret hobby of learning <span style="color: #e3b000;">3D modeling</span>!</li>
+    <li>📱 **Let’s connect on:** 
+        <a href="https://github.com/jayantibhandari" target="_blank">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/jayantibhandari" target="_blank">LinkedIn</a>
+    </li>
+</ul>
+
 </p>
 
 <br>
