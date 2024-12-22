@@ -30,7 +30,7 @@
 
 <!-- Tech GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IywA6paxXzOybNK/giphy.gif" alt="Tech GIF" width="400"/>
+  <img src="https://media.giphy.com/media/YkFwnKceW9L3K/giphy.gif" alt="Tech GIF" width="400"/>
 </p>
 
 ---
@@ -54,8 +54,9 @@
 
 <!-- Fun GIF for Music -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LO6faZTIYjTiI/giphy.gif" alt="Music GIF" width="400"/>
+  <img src="https://media.giphy.com/media/3oEdv2Dk6jq5XaBlmY/giphy.gif" alt="Music GIF" width="400"/>
 </p>
+
 
 ---
 
