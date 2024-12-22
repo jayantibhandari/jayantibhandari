@@ -50,11 +50,6 @@
 </p>
 
 
-<!-- Fun GIF for Music -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYbA3uYb5A1nkPq/giphy.gif" alt="Music GIF" width="400"/>
-</p>
-
 ---
 
 ## 🏆 **Achievements & Badges**
@@ -74,9 +69,11 @@
 ---
 
 ## 💬 **Fun Facts About Me**
+<!-- Fun Facts GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/MXxIH9POwv2Tw/giphy.gif" alt="Fun Facts" width="400"/>
+  <img src="https://media.giphy.com/media/3o6ozkxXyIa26zKcFq/giphy.gif" alt="Fun Facts" width="400"/>
 </p>
+
 
 - 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)!  
 - 🚴 I love cycling in my free time.  
