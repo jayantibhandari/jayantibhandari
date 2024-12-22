@@ -37,14 +37,6 @@
 
 ---
 
-## 🎵 **Spotify Now Playing**
-<p align="center">
-  <iframe src="https://open.spotify.com/embed/user/31zmf2isk7rolgr7dvdbasnohdwu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</p>
-
-
----
-
 ## 🏆 **Achievements**
 - 🥇 **Top Contributor in XYZ**  
 - 🥈 **Open Source Contributions Recognized by ABC**  
