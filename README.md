@@ -1,7 +1,7 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hey, I'm Jayanti Bhandari!</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner</h3>
+# 👋 Hey, I'm Jayanti Bhandari!
+### 🚀 Full Stack Developer | 🎮 Gamer | 🌱 Lifelong Learner
 
+---
 
 <!-- Animated Typing Text -->
 <p align="center">
@@ -13,11 +13,9 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Fun Banner" width="500"/>
 </p>
 
-
 ---
 
 ## 🌟 **About Me**
-
 - 🔭 I’m currently working on **Laravel and React Projects**  
 - 🌱 I’m learning **Laravel and React**  
 - 💬 Ask me about **Laravel and React**  
@@ -29,7 +27,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,github,git,vscode" alt="Tech Stack"/>
 </p>
-
 
 ---
 
@@ -45,17 +42,13 @@
 ---
 
 ## 📈 **Programming Language Stats**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
-
 ---
 
 ## 🏆 **Achievements & Badges**
-
 <p align="center">
   <a href="https://www.freecodecamp.org/jayantibhandari">
     <img src="https://img.shields.io/badge/-freeCodeCamp-F7B500?style=for-the-badge&logo=freecodecamp&logoColor=white" />
@@ -71,19 +64,15 @@
 ---
 
 ## 💬 **Fun Facts About Me**
-<!-- Fun GIF -->
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="500"/>
 </p>
 
-
-
-- 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)!  
+- 🎮 I’m an avid gamer (ask me about **Valorant** or **League of Legends**)  
 - 🚴 I love cycling in my free time.  
 - 🍕 Dorritos is my go-to comfort food.  
 
 ---
-
 
 ## 🏆 **Let's Connect!**
 <p align="center">
