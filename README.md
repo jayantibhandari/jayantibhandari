@@ -25,14 +25,13 @@
 <br>
 <br>
 
----
+
 
 ## 🛠️ **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,github,git,vscode" alt="Tech Stack"/>
 </p>
 
----
 <br>
 <br>
 
@@ -48,14 +47,13 @@
 
 <br>
 <br>
----
+
 
 ## 📈 **Programming Language Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ## 🏆 **Achievements & Badges**
 <p align="center">
@@ -71,7 +69,7 @@
 </p>
 <br>
 <br>
----
+
 
 
 ## 💬 **Fun Facts About Me**
@@ -92,7 +90,7 @@
 
 <br>
 <br>
----
+
 
 
 ## 🏆 **Let's Connect!**
