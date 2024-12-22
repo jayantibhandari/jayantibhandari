@@ -9,7 +9,7 @@
 
 <!-- Fun GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/dq68FheYhm2lu/giphy.gif" alt="Fun Banner" width="500"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Fun Banner" width="500"/>
 </p>
 
 ---
