@@ -64,7 +64,7 @@
 ---
 
 ## 💬 **Fun Facts About Me**
-<div align="center">
+<div align="center" display='flex' flex-direction='row'>
   <!-- Fun GIF -->
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuNmtjenY5eG5ucTN3Z3YwNDZ5NDkzOGUzaXkxZGh6NjloeGJ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/giphy.gif" alt="Fun Banner" width="500" style="display: inline-block; margin-right: 20px"/>
   
