@@ -90,8 +90,6 @@
     <li>🍕 Dorritos is my go-to comfort food.</li>
     <li>🍕 Dorritos is my go-to comfort food.</li>
     <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
-    <li>🍕 Dorritos is my go-to comfort food.</li>
   </ul>
 </p>
 
