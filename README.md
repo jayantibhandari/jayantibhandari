@@ -77,11 +77,8 @@
 ## 🏆 **Achievements & Badges**
 <br>
 <p align="center">
-  <a href="https://www.example.com/achievement1">
-    <img src="https://img.shields.io/badge/-Achievement%201-FF5733?style=for-the-badge&logo=achievement&logoColor=white" alt="Achievement 1 Badge"/>
-  </a>
-  <a href="https://www.example.com/achievement2">
-    <img src="https://img.shields.io/badge/-Achievement%202-33FF57?style=for-the-badge&logo=achievement&logoColor=white" alt="Achievement 2 Badge"/>
+  <a href="https://www.example.com/pull-shark-sticker">
+    <img src="https://img.shields.io/badge/-Pull%20Shark%20Sticker-0073e6?style=for-the-badge&logo=shark&logoColor=white" alt="Pull Shark Sticker Badge"/>
   </a>
 </p>
 <br>
