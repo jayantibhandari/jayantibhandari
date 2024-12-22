@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRycTAxZzAwdnMzcGJ3N3NnOW9mMXN5MnVjZHVyajEyc3I0cW13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" style="display: inline-block; margin-right: 50px;" width="350"/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantibhandari&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" width="400"/>
