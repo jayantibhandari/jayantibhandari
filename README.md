@@ -17,7 +17,7 @@
     <li>👨‍💻 Currently working on: <span style="font-weight: bold;">Laravel</span> and <span style="font-weight: bold;">React Projects</span> </li>
     <li>🌱 Learning: <span style="color: #61dafb;">React</span> hooks, <span style="color: #ff2d20;">Laravel API development</span></li>
     <li>💬 Ask me about: <span style="color: #f57c00;">anything tech-related, especially Laravel & React</span></li>
-    <li>🍕 Comfort food: Doritos + guacamole = Heaven!</li>
+    <li>🍕 Comfort food: Doritos = Heaven!</li>
     <li>📫 Reach me at: <a href="mailto:jayantibhandari6@gmail.com">jayantibhandari6@gmail.com</a></li>
     <li>📱 Let’s connect on: 
         <a href="https://github.com/jayantibhandari" target="_blank">GitHub</a> | 
